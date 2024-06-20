@@ -36,7 +36,7 @@
 
 # Contributors
 
-[Bran Zhang](https://github.com/kaijia2022)
+- [Bran Zhang](https://github.com/kaijia2022)
 
-[Henry Feng](https://github.com/Henryfzh)
+- [Henry Feng](https://github.com/Henryfzh)
 
