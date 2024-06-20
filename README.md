@@ -30,7 +30,7 @@
 
 # Build
 
-- Built with VS2022
+- Build with VS2022
 
 - for testscenes 6 and 7, run with `release` option will significantly reduce the execution time
 
