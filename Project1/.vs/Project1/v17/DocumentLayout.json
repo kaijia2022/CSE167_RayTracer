@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\RayTracer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\RayTracer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\RayTracer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\RayTracer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\BVH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\BVH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\variable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\variable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\readfile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\readfile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\BVH.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED1F5B2-B7E9-45BE-86CD-713F700EAE0F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\BVH.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "Project1\\main.cpp",
+              "ToolTip": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\main.cpp",
+              "RelativeToolTip": "Project1\\main.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAF4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-03T16:26:40.887Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RayTracer.h",
+              "DocumentMoniker": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\RayTracer.h",
+              "RelativeDocumentMoniker": "Project1\\RayTracer.h",
+              "ToolTip": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\RayTracer.h",
+              "RelativeToolTip": "Project1\\RayTracer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-11T01:45:27.403Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "variable.h",
+              "DocumentMoniker": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\variable.h",
+              "RelativeDocumentMoniker": "Project1\\variable.h",
+              "ToolTip": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\variable.h",
+              "RelativeToolTip": "Project1\\variable.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T05:57:40.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "math.cpp",
+              "DocumentMoniker": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\math.cpp",
+              "RelativeDocumentMoniker": "Project1\\math.cpp",
+              "ToolTip": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\math.cpp",
+              "RelativeToolTip": "Project1\\math.cpp",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAL8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-09T02:55:25.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BVH.cpp",
+              "DocumentMoniker": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\BVH.cpp",
+              "RelativeDocumentMoniker": "Project1\\BVH.cpp",
+              "ToolTip": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\BVH.cpp",
+              "RelativeToolTip": "Project1\\BVH.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAIkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-08T19:53:28.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RayTracer.cpp",
+              "DocumentMoniker": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\RayTracer.cpp",
+              "RelativeDocumentMoniker": "Project1\\RayTracer.cpp",
+              "ToolTip": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\RayTracer.cpp",
+              "RelativeToolTip": "Project1\\RayTracer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-08T00:55:35.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transform.cpp",
+              "DocumentMoniker": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\Transform.cpp",
+              "RelativeDocumentMoniker": "Project1\\Transform.cpp",
+              "ToolTip": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\Transform.cpp",
+              "RelativeToolTip": "Project1\\Transform.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-09T02:55:27.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "math.h",
+              "DocumentMoniker": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\math.h",
+              "RelativeDocumentMoniker": "Project1\\math.h",
+              "ToolTip": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\math.h",
+              "RelativeToolTip": "Project1\\math.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-09T02:56:19.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "readfile.cpp",
+              "DocumentMoniker": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\readfile.cpp",
+              "RelativeDocumentMoniker": "Project1\\readfile.cpp",
+              "ToolTip": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\readfile.cpp",
+              "RelativeToolTip": "Project1\\readfile.cpp",
+              "ViewState": "AQIAAG8AAAAAAAAAAADgv9QAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-08T17:39:38.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BVH.h",
+              "DocumentMoniker": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\BVH.h",
+              "RelativeDocumentMoniker": "Project1\\BVH.h",
+              "ToolTip": "C:\\Users\\Kaijia\\OneDrive\\\u684C\u9762\\hw4\\Project1\\Project1\\BVH.h",
+              "RelativeToolTip": "Project1\\BVH.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-11T17:41:48.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

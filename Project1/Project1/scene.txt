@@ -1,0 +1,5 @@
+// Example scene description
+// Sphere format: sphere x y z radius r g b ambient specular shininess emission
+sphere 0 0 -20 4 1 0 0 0.1 0.5 10 0.2
+// Light format: light x y z r g b intensity
+light 10 10 -10 1 1 1 0.5

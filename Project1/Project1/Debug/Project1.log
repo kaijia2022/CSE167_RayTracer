@@ -1,0 +1,20 @@
+﻿  main.cpp
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\RayTracer.h(13,24): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'main.cpp')
+  
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\main.cpp(112,54): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\main.cpp(112,54): warning C4244:         with
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\main.cpp(112,54): warning C4244:         [
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\main.cpp(112,54): warning C4244:             _Ty=unsigned char
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\main.cpp(112,54): warning C4244:         ]
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\main.cpp(113,59): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\main.cpp(113,59): warning C4244:         with
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\main.cpp(113,59): warning C4244:         [
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\main.cpp(113,59): warning C4244:             _Ty=unsigned char
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\main.cpp(113,59): warning C4244:         ]
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\main.cpp(114,59): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\main.cpp(114,59): warning C4244:         with
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\main.cpp(114,59): warning C4244:         [
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\main.cpp(114,59): warning C4244:             _Ty=unsigned char
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Project1\main.cpp(114,59): warning C4244:         ]
+  Project1.vcxproj -> D:\OneDrive\Study\HW\Winter 2024\CSE 167\hw4\Project1\Debug\Project1.exe

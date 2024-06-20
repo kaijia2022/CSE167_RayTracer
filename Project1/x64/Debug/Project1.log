@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol __imp_FreeImage_Initialise referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_FreeImage_DeInitialise referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_FreeImage_Unload referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_FreeImage_Save referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_FreeImage_ConvertFromRawBits referenced in function main
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\exp\Project1\Project1\lib\FreeImage.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\OneDrive\Study\HW\Winter 2024\CSE 167\exp\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 5 unresolved externals
