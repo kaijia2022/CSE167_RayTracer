@@ -1,6 +1,6 @@
 # CSE_167 Raytracer
 
-- Raytracer implementation from scratch. (CSE167 WINTER 2024)
+- Raytracer implementation from scratch.(Passes All TestCases 100%) (CSE167 WINTER 2024)
 
 # Features
 
@@ -8,11 +8,11 @@
 
 - Customized math library for vector and matrix calculation
 
-- Ray-triangle intersection calculation
+- Correct ray-triangle intersection calculation
 
-- Ray-sphere intersection calculation
+- Correct ray-sphere intersection calculation
 
-- Color calculation
+- Correct Color calculation
 
 - Applies Bounding Volume Hierarchy(BVH) acceleration structure
 
